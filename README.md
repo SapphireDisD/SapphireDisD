@@ -2,7 +2,7 @@
 - 👀 I’m interested in challenges!
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on Harmony Chat
-- 📫 How to reach me Sapphire#1234 on Discord
+- 📫 How to reach me Sapphire#1577 on Discord
 
 <!---
 SapphireDisD/SapphireDisD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
