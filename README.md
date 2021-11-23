@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SapphireDisD
 - 👀 I’m interested in challenges!
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on Harmony Chat
-- 📫 How to reach me Sapphire#1577 on Discord
+- 💞️ I’m looking to collaborate on someting
+- 📫 How to reach me Sapphire#8140 on Discord
 - btw im weird and i follow everyone that follows me in like every social network so yeah
 
 <!---
