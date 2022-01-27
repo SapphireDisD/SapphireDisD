@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @SapphireDisD
-- 👀 I’m interested in challenges!
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on someting
-- 📫 How to reach me Sapphire#4436 on Discord
-- btw im weird and i follow everyone that follows me in like every social network so yeah
+Hi, I’m Sapphire!
+I like doing stuff and so I do stuff that is stuff.
+You can reach me as Sapphire#4436 on Discord
 
 <!---
 SapphireDisD/SapphireDisD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
